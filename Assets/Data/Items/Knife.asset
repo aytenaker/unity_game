@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1513e9af2223175488dea2ecb494288b, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  itemName: Knife
+  modelPrefab: {fileID: 8562797282091790658, guid: 372f94bf956754541a0d3d4c1d628e03, type: 3}
+  Attack_01: Attack_01
+  Attack_02: Attack_02
+  Attack_03: Attack_03
+  Attack_04: Attack_04
+  Attack_05: Attack_05
+  SpecialAttack_01: SpecialAttack_01
+  SpecialAttack_02: SpecialAttack_02
+  SpecialAttack_03: SpecialAttack_03
